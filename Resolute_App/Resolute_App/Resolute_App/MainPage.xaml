@@ -13,6 +13,11 @@
 
     <ContentPage Title="Home">
         <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
+        <?Button to preview the login page TEMPORARY?>
+        <Button Text="Login Page"
+                x:Name="LoginPage"
+                BackgroundColor="OrangeRed"
+                Clicked="LoginPage_Clicked" />
     </ContentPage>
 
     <ContentPage Title="Settings">

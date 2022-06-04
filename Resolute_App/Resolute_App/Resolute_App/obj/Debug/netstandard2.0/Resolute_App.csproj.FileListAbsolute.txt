@@ -14,3 +14,4 @@ C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\Resolute_App.dll
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\ref\Resolute_App.dll
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\Resolute_App.pdb
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs

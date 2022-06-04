@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Resolute_App.MainPage.xaml", "MainPage.xaml", typeof(global::Resolute_App.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Resolute_App.ProfilePage.xaml", "ProfilePage.xaml", typeof(global::Resolute_App.ProfilePage))]
 
 namespace Resolute_App {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.TabbedPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("ProfilePage.xaml")]
+    public partial class ProfilePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ProfilePage));
         }
     }
 }
