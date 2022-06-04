@@ -19,6 +19,12 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+
+        <?Button to preview the login page?>
+        <Button Text="Login Page"
+                x:Name="LoginPage"
+                BackgroundColor="OrangeRed"
+                Clicked="LoginPage_Clicked" />
     </StackLayout>
 
 </ContentPage>
