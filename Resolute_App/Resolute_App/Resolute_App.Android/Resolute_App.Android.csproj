@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\minimal_pink_wallpaper.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Resolute_App\Resolute_App.csproj">
       <Project>{857EECD2-0CA7-40B1-8F36-B7677BEAA0DC}</Project>

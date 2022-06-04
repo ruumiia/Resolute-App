@@ -628,3 +628,4 @@ C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\placeholderlogo.png
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\minimal_pink_wallpaper.jpg
