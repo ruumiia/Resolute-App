@@ -10,7 +10,7 @@ namespace Resolute_App
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MathGameUI();
         }
 
         protected override void OnStart()

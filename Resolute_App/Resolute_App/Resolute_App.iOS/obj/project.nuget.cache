@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jXnaMnGwqzrR9geX9VV4eiJnD4HX98rJdmvx0TQ6agVaSiBTq4w/57UPguQKxsuOXBZyZO6zZFSscAQNf3J9Nw==",
+  "dgSpecHash": "vxNighBywdyMhL132tYDsfRiPcl0D7KsoGw4piNk+9r0WqqNKPjVI7B3mYWwoMbt9N8D/RMO8vTV//aYOeOHcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shiii\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\shiii\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

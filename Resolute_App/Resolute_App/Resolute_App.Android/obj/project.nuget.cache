@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rIvO4jwSVpfuRiTxB3Y8gNctZiPMXZiSyuO+JIh2f3ZSV9txRoBoHxDzcKBCG5HJQKEuxIMplkj3AoyP37yvMA==",
+  "dgSpecHash": "qy/adGY2w1+RPIEcO+/Z68Wcy/v8UJ2spOEMbuz64X70eeq8nyAMZV4dqM+xoIHTByTN2OJ/OFfz7LNuI+PZQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
+  "projectFilePath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shiii\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\shiii\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

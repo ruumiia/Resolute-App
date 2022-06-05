@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
       "projectName": "Resolute_App.iOS",
-      "projectPath": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+      "projectPath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
       "packagesPath": "C:\\Users\\shiii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\obj\\",
+      "outputPath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1008,8 +1008,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
-              "projectPath": "C:\\Users\\shiii\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
+            "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
+              "projectPath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
             }
           }
         }
