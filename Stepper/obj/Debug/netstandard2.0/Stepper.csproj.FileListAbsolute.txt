@@ -1,0 +1,15 @@
+C:\Users\Jigs\source\repos\Stepper\Stepper\bin\Debug\netstandard2.0\Stepper.deps.json
+C:\Users\Jigs\source\repos\Stepper\Stepper\bin\Debug\netstandard2.0\Stepper.dll
+C:\Users\Jigs\source\repos\Stepper\Stepper\bin\Debug\netstandard2.0\ref\Stepper.dll
+C:\Users\Jigs\source\repos\Stepper\Stepper\bin\Debug\netstandard2.0\Stepper.pdb
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.csproj.AssemblyReference.cache
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.AssemblyInfoInputs.cache
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.AssemblyInfo.cs
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.csproj.CoreCompileInputs.cache
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.dll
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\ref\Stepper.dll
+C:\Users\Jigs\source\repos\Stepper\Stepper\obj\Debug\netstandard2.0\Stepper.pdb
