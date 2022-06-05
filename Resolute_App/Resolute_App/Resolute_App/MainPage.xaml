@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Resolute_App.MainPage"
              xmlns:local="clr-namespace:Resolute_App"
-             BarBackgroundColor="Blue"
+             BarBackgroundColor="DarkBlue"
             SelectedTabColor="White"
             UnselectedTabColor="Aqua"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
@@ -12,16 +12,21 @@
     <local:ProfilePage Title="Profile" />
 
     <ContentPage Title="Home">
-        <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
-        <?Button to preview the login page TEMPORARY?>
-        <Button Text="Login Page"
+        <StackLayout>
+            <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
+            <?TEMPORARY Button to preview the login page?>
+            <Button Text="Login Page"
                 x:Name="LoginPage"
                 BackgroundColor="OrangeRed"
-                Clicked="LoginPage_Clicked" />
+                Clicked="LoginPage_Clicked"
+                />
+        </StackLayout>
     </ContentPage>
 
     <ContentPage Title="Settings">
-        <Label Text="Settings Menu" HorizontalOptions="CenterAndExpand"></Label>
+        <StackLayout>
+            <Label Text="Settings Menu" HorizontalOptions="CenterAndExpand"></Label>
+        </StackLayout>
     </ContentPage>
 
 </TabbedPage>
