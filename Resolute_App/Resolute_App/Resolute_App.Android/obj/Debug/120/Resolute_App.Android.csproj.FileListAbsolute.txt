@@ -1265,3 +1265,4 @@ C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\user_profile.png
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\home.png
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\google.png
+C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\facebook.png

@@ -18,7 +18,7 @@
                 CornerRadius="50"
                 BackgroundColor="white"
                 BorderColor="DarkGray"
-                Margin="20"
+                Margin="0,20,0,0"
                 ></Button>
 
             <Button
@@ -28,9 +28,19 @@
                 Text="Login with Google"
                 BorderWidth="1.5"
                 CornerRadius="50"
-                BackgroundColor="white"
+                BackgroundColor="#DB4437"
                 BorderColor="DarkGray"
-                Margin="20"
+                ></Button>
+
+            <Button
+                VerticalOptions="Center"
+                ContentLayout="Left,5"
+                ImageSource="facebook"
+                Text="Login with Facebook"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                BackgroundColor="#4267B2"
+                BorderColor="DarkGray"
                 ></Button>
 
             <Label HorizontalOptions="Center">
