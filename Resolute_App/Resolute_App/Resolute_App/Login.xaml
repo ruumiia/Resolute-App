@@ -21,6 +21,18 @@
                 Margin="20"
                 ></Button>
 
+            <Button
+                VerticalOptions="Center"
+                ContentLayout="Left,5"
+                ImageSource="google"
+                Text="Login with Google"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                BackgroundColor="white"
+                BorderColor="DarkGray"
+                Margin="20"
+                ></Button>
+
             <Label HorizontalOptions="Center">
                 <Label.FormattedText>
                     <FormattedString>
