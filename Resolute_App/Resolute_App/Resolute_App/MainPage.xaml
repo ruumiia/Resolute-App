@@ -9,9 +9,9 @@
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
             android:TabbedPage.ToolbarPlacement="Bottom">
 
-    <local:ProfilePage Title="Profile" />
+    <local:ProfilePage Title="Profile" IconImageSource="user_profile"/>
 
-    <ContentPage Title="Home">
+    <ContentPage Title="Home" IconImageSource="home">
         <StackLayout>
             <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
             <?TEMPORARY Button to preview the login page?>
@@ -23,7 +23,7 @@
         </StackLayout>
     </ContentPage>
 
-    <ContentPage Title="Settings">
+    <ContentPage Title="Settings" IconImageSource="settings">
         <StackLayout>
             <Label Text="Settings Menu" HorizontalOptions="CenterAndExpand"></Label>
         </StackLayout>
