@@ -3,9 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Resolute_App.ProfilePage">
     <ContentPage.Content>
-        <StackLayout Padding="10,10,10,10">
+        <StackLayout Padding="20">
             <StackLayout Orientation="Horizontal">
-                <Image Source="default_profile_pic" WidthRequest="200" />
+                <Image Source="default_profile_pic" WidthRequest="100" />
                 <StackLayout Orientation="Vertical">
                     <Label Text="Name: "></Label>
                     <Label Text="Juan De La Cruz" FontAttributes="Italic"></Label>
@@ -24,7 +24,7 @@
                     <Label Text="22"></Label>
                 </StackLayout>
                 <StackLayout Orientation="Vertical">
-                    <Label Text="Birthday" />
+                    <Label Text="Birthday: " />
                     <Label Text="01/01/2000"></Label>
 
                 </StackLayout>

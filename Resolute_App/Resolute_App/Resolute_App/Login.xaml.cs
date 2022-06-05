@@ -16,5 +16,10 @@ namespace Resolute_App
         {
             InitializeComponent();
         }
+
+        private void TapGestureRecognizer_Register(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Register());
+        }
     }
 }

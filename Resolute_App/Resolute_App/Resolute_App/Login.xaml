@@ -6,7 +6,7 @@
     
     <ContentPage.Content>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
-            <Image Source="placeholderLogo.png" WidthRequest="150" HeightRequest="150"/>
+            <Image Source="placeholderLogo.png" WidthRequest="190"/>
 
             <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>
             <Entry Placeholder="Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
@@ -22,7 +22,7 @@
                 ></Button>
 
             <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="DarkSlateGray" />
-
+            
             <Button
                 VerticalOptions="Center"
                 ContentLayout="Left,5"
@@ -54,6 +54,9 @@
                         <Span Text="Register" TextColor="LightGray" FontAttributes="Bold" TextDecorations="Underline"/>
                     </FormattedString>
                 </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Register"/>
+                </Label.GestureRecognizers>
             </Label>
         </StackLayout>
     </ContentPage.Content>
