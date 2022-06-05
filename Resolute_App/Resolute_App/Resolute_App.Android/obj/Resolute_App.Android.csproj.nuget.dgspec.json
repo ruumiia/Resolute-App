@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj": {}
+    "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj": {
+    "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
+        "projectUniqueName": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
         "projectName": "Resolute_App.Android",
-        "projectPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
-        "packagesPath": "C:\\Users\\zetha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\obj\\",
+        "projectPath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\Resolute_App.Android.csproj",
+        "packagesPath": "C:\\Users\\patrd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\zetha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\patrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +34,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
-                "projectPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
+              "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
+                "projectPath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
               }
             }
           }
@@ -54,20 +56,22 @@
         }
       }
     },
-    "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
+    "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
+        "projectUniqueName": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
         "projectName": "Resolute_App",
-        "projectPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
-        "packagesPath": "C:\\Users\\zetha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\obj\\",
+        "projectPath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
+        "packagesPath": "C:\\Users\\patrd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\zetha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\patrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
