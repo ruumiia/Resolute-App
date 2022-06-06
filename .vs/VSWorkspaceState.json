@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Resolute_App",
+    "\\Resolute_App\\Resolute_App",
+    "\\Resolute_App\\Resolute_App\\Resolute_App"
   ],
-  "SelectedNode": "\\Resolute_App.sln",
+  "SelectedNode": "\\Resolute_App\\Resolute_App\\Resolute_App\\Register.xaml",
   "PreviewInSolutionExplorer": false
 }

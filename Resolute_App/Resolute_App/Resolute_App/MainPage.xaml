@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Resolute_App.MainPage"
-             xmlns:local="clr-namespace:Resolute_App"
-             BarBackgroundColor="DarkBlue"
-            SelectedTabColor="White"
-            UnselectedTabColor="Aqua"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="Resolute_App.MainPage"
+            xmlns:local="clr-namespace:Resolute_App"
+            BarBackgroundColor="#F4F4F4"
+            SelectedTabColor="#68C7EB"
+            UnselectedTabColor="#000000"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
             android:TabbedPage.ToolbarPlacement="Bottom">
 
     <local:ProfilePage Title="Profile" IconImageSource="user_profile"/>
 
-    <ContentPage Title="Home" IconImageSource="home">
+    <ContentPage Title="Home" IconImageSource="home" Padding="20">
         <StackLayout>
             <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
             <?TEMPORARY Button to preview the login page?>

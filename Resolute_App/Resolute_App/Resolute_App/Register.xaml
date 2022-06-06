@@ -3,12 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Resolute_App.Register"
              BackgroundImageSource="minimal_pink_wallpaper.jpg">
-    <ContentPage.Content>
+
+    <ScrollView>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
             <Image Source="placeholderLogo.png" WidthRequest="190"/>
 
+            <Entry Placeholder="Email" TextColor="White" PlaceholderColor="LightGray"></Entry>
             <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>
             <Entry Placeholder="Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+            <Entry Placeholder="Confirm Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
 
             <Button
                 VerticalOptions="Center"
@@ -55,5 +58,5 @@
                 </Label.FormattedText>
             </Label>
         </StackLayout>
-    </ContentPage.Content>
+    </ScrollView>
 </ContentPage>
