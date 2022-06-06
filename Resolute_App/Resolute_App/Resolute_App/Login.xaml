@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Resolute_App.Login"
+             Title="Login"
              BackgroundImageSource="minimal_pink_wallpaper.jpg">
     
     <ContentPage.Content>
@@ -18,6 +19,7 @@
                 CornerRadius="50"
                 BackgroundColor="white"
                 BorderColor="white"
+                TextColor="Black"
                 Margin="0,10,0,10"
                 ></Button>
 
@@ -30,6 +32,7 @@
                 Text="Login with Google"
                 BorderWidth="1.5"
                 CornerRadius="50"
+                TextColor="Black"
                 BackgroundColor="#DB4437"
                 BorderColor="#DB4437"
                 Margin="0,10,0,10"

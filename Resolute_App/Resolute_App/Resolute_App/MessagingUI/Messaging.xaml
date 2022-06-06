@@ -6,7 +6,7 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout BackgroundColor="White" Padding="5">
-                <Entry Text="Search messages" FontSize="Small"  HorizontalTextAlignment="Center"/>
+                <Entry Placeholder="Search messages" FontSize="Small"  HorizontalTextAlignment="Center"/>
             </StackLayout>
 
             <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" BackgroundColor="White" Padding="15">

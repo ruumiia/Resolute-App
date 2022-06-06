@@ -3,6 +3,7 @@
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             x:Class="Resolute_App.MainPage"
             xmlns:local="clr-namespace:Resolute_App"
+            Title="Resolute"
             BarBackgroundColor="#F4F4F4"
             SelectedTabColor="#68C7EB"
             UnselectedTabColor="#000000"
