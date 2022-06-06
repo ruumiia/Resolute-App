@@ -20,6 +20,12 @@
                 BackgroundColor="OrangeRed"
                 Clicked="LoginPage_Clicked"
                 />
+
+            <Button Text="Messaging UI"
+                x:Name="MessagingUI"
+                BackgroundColor="LightBlue"
+                Clicked="MessagingUI_Clicked"
+                />
         </StackLayout>
     </ContentPage>
 
