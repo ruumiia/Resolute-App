@@ -6,14 +6,16 @@
     <ContentPage.Content>
         <StackLayout>
             <StackLayout BackgroundColor="White" Padding="5">
-                <Entry Placeholder="Search messages" FontSize="Small"  HorizontalTextAlignment="Center"/>
+                <Entry Placeholder="Search messages" FontSize="Small"  HorizontalTextAlignment="Center" PlaceholderColor="gray" TextColor="black"/>
             </StackLayout>
 
             <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" BackgroundColor="White" Padding="15">
-                <Image Source="default_profile_pic.jpg" WidthRequest="80"/>
-                <StackLayout Orientation="Vertical" Padding="15,0,0,0">
-                    <Label Text="User" FontSize="Title" />
-                    <Label Text="Hi! Welcome to the app." FontSize="Subtitle" />
+                <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                    <Image Source="default_profile_pic.jpg" WidthRequest="80"/>
+                </Frame>
+                <StackLayout Orientation="Vertical" Padding="10,0,0,0">
+                    <Label Text="User" FontSize="Title" TextColor="Black"/>
+                    <Label Text="Hi! Welcome to the app." FontSize="Subtitle" TextColor="black"/>
                 </StackLayout>
             </StackLayout>
 
