@@ -38,10 +38,8 @@
         </StackLayout>
     </ContentPage>
 
-    <ContentPage Title="Settings" IconImageSource="settings">
-        <StackLayout>
-            <Label Text="Settings Menu" HorizontalOptions="CenterAndExpand"></Label>
-        </StackLayout>
-    </ContentPage>
+
+    <local:SettingsPage Title="Settings" IconImageSource="settings" />
+
 
 </TabbedPage>
