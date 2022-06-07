@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qo2ZaCirIXSuW7wTZjLMbNBNCNzzN8cfEGvosgqx/X1eLoYpTWql3CL8dvMZvcj14Bba0AenZV1F095ggqznMQ==",
+  "dgSpecHash": "3YlQfKvATzsexqw8thhl1+5S6wQA0amN5eI5xR8Ry0FfnLvQ2PIWVIiJ4jhWpTX32SAUoS4Lv8qg5RqzAYs8gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patrd\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
+  "projectFilePath": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\patrd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\patrd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

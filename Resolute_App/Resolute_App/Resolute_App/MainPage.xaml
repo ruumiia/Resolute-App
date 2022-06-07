@@ -27,6 +27,12 @@
                 BackgroundColor="LightBlue"
                 Clicked="MessagingUI_Clicked"
                 />
+            
+            <Button Text="Chatbox UI"
+                x:Name="ChatboxUI"
+                BackgroundColor="IndianRed"
+                Clicked="ChatboxUI_Clicked"
+                />
         </StackLayout>
     </ContentPage>
 

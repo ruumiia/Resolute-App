@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resolute_App.MessagingUI.Chatbox"
+             Title="User">
+    <ContentPage.Content>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <?Data to be made dynamic for this page?>
+            <Label Text="07-07 11:22 PM" TextColor="Gray" FontSize="Small"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Image Source="default_profile_pic.jpg" WidthRequest="80"/>
+                <Frame BorderColor="Gray">
+                    <Label Text="Hi! Welcome to the app." BackgroundColor="White" />
+                </Frame>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand" BackgroundColor="white">
+                <Entry BackgroundColor="Gray" TextColor="Black"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
