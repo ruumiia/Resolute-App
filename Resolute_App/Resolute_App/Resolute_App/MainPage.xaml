@@ -12,6 +12,8 @@
 
     <local:ProfilePage Title="Profile" IconImageSource="user_profile"/>
 
+    <local:Messaging Title="Messages" IconImageSource="messaging_icon" />
+
     <ContentPage Title="Home" IconImageSource="home" Padding="20">
         <StackLayout>
             <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>

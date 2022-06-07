@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pkHy4a/TV+he+0h0XFk+DuL3Ty01/L2eBYAzbnEJf5+2F19ggrqgV9/NMNajNwR4je2KbZMHLzdZ+N++cyZ28Q==",
+  "dgSpecHash": "YQ5oTLfLp6kekEUpnHGtpRWn4em0EgvTRvLoRgSiWFQdTYbC9D15eZjsKbvrws1pynu/rwImrUNloNODQcNsOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+  "projectFilePath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\patrd\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\patrd\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\patrd\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\zetha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

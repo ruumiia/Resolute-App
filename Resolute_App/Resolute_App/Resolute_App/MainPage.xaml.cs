@@ -14,6 +14,11 @@ namespace Resolute_App
         public MainPage()
         {
             InitializeComponent();
+            var pages = Children.GetEnumerator();
+            pages.MoveNext(); //first page
+            pages.MoveNext(); //second page
+            pages.MoveNext(); // third page
+            CurrentPage = pages.Current;
         }
 
         //navigation page buttons
