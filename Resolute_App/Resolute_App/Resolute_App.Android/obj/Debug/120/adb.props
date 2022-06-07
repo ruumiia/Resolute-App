@@ -1,2 +1,2 @@
-AdbTarget=-s R5CR2181QJY
+AdbTarget=-s emulator-5554
 AdbOptions=
