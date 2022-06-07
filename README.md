@@ -5,5 +5,14 @@
 ![](images/login.png)<br />
 Login Page<br /><br />
 
+![](images/register.png)<br />
+Register Page<br /><br />
+
 ![](images/tabbed.png)<br />
-Tabbed Page for Navigation (Login button is temporary - just for previewing login page)<br /><br />
+Tabbed Page for Navigation<br /><br />
+
+![](images/messaging.png)<br />
+Messaging UI<br /><br />
+
+![](images/chatbox.png)<br />
+Chatbox UI<br /><br />
