@@ -5,17 +5,13 @@
     <ContentPage.Content>
         <TableView Intent="Settings">
             <TableSection Title="Settings">
+                <TextCell Text="Option 1"></TextCell>
+                <TextCell Text="Option 2"></TextCell>
                 <SwitchCell Text="App setting 1"></SwitchCell>
                 <SwitchCell Text="app setting 2"></SwitchCell>
                 <SwitchCell Text="App setting 3"></SwitchCell>
 
-                <ViewCell>
-                    <ViewCell.View>
-                        <StackLayout>
-                            <Label Text="Setting 4" HorizontalOptions="CenterAndExpand"></Label>
-                        </StackLayout>
-                    </ViewCell.View>
-                </ViewCell>
+                
             </TableSection>
         </TableView>
     </ContentPage.Content>

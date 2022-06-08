@@ -982,27 +982,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patrd\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\zetha\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
       "projectName": "Resolute_App.iOS",
-      "projectPath": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
-      "packagesPath": "C:\\Users\\patrd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\obj\\",
+      "projectPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
+      "packagesPath": "C:\\Users\\zetha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\patrd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\zetha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1016,8 +1013,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
-              "projectPath": "C:\\Users\\patrd\\Source\\Repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
+            "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj": {
+              "projectPath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj"
             }
           }
         }
