@@ -15,9 +15,9 @@ namespace Resolute_App
         {
             InitializeComponent();
             var pages = Children.GetEnumerator();
+            //moves the pages to go and set the home page as the default page
             pages.MoveNext(); //first page
             pages.MoveNext(); //second page
-            pages.MoveNext(); // third page
             CurrentPage = pages.Current;
         }
     }

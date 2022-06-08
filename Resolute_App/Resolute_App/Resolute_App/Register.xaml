@@ -9,11 +9,14 @@
         <StackLayout Padding="45" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
             <Image Source="ResoluteLogoPNGnotext.png" WidthRequest="170"/>
 
-            <Entry Placeholder="Email" TextColor="White" PlaceholderColor="LightGray"></Entry>
-            <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>
-            <Entry Placeholder="Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
-            <Entry Placeholder="Confirm Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+            <StackLayout Padding="0,15,0,15">
+                <Entry Placeholder="Email" TextColor="White" PlaceholderColor="LightGray"></Entry>
+                <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>
+                <Entry Placeholder="Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+                <Entry Placeholder="Confirm Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+            </StackLayout>
 
+            <?Register Button?>
             <Button
                 VerticalOptions="Center"
                 Text="Register"
@@ -22,11 +25,12 @@
                 TextColor="Black"
                 BackgroundColor="white"
                 BorderColor="white"
-                Margin="0,10,0,10"
+                Margin="0,0,0,15"
                 ></Button>
 
             <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="DarkSlateGray" />
 
+            <?Socials register?>
             <Button
                 VerticalOptions="Center"
                 ContentLayout="Left,5"

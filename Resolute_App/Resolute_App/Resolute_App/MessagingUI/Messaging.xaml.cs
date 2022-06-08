@@ -18,9 +18,21 @@ namespace Resolute_App
             InitializeComponent();
         }
 
-        private void ChatUser1_Tapped(object sender, EventArgs e)
+        private async void ChatUser1_Tapped(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new Chatbox());
+            //tap feedback animation
+            const int _animationTime = 50;
+            try
+            {
+                var layout = (StackLayout)sender;
+                await layout.FadeTo(0.5, _animationTime);
+                await layout.FadeTo(1, _animationTime);
+            }
+            catch (Exception)
+            {
+
+            }
+            await Navigation.PushAsync(new Chatbox());
         }
     }
 }
