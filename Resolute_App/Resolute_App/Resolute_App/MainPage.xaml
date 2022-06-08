@@ -12,32 +12,13 @@
 
     <local:ProfilePage Title="Profile" IconImageSource="user_profile"/>
 
-    <local:Messaging Title="Messages" IconImageSource="messaging_icon" />
-
     <ContentPage Title="Home" IconImageSource="home" Padding="20">
         <StackLayout>
             <Label Text="Home Page" HorizontalOptions="CenterAndExpand"></Label>
-            <?TEMPORARY Button to preview the login page?>
-            <Button Text="Login Page"
-                x:Name="LoginPage"
-                BackgroundColor="OrangeRed"
-                Clicked="LoginPage_Clicked"
-                />
-
-            <Button Text="Messaging UI"
-                x:Name="MessagingUI"
-                BackgroundColor="LightBlue"
-                Clicked="MessagingUI_Clicked"
-                />
-            
-            <Button Text="Chatbox UI"
-                x:Name="ChatboxUI"
-                BackgroundColor="IndianRed"
-                Clicked="ChatboxUI_Clicked"
-                />
         </StackLayout>
     </ContentPage>
 
+    <local:Messaging Title="Messages" IconImageSource="messaging_icon" />
 
     <local:SettingsPage Title="Settings" IconImageSource="settings" />
 

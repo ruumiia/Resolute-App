@@ -21,5 +21,10 @@ namespace Resolute_App
         {
             Navigation.PushAsync(new Register());
         }
+
+        private void LoginBtn_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MainPage());
+        }
     }
 }

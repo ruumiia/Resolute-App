@@ -6,8 +6,8 @@
              BackgroundImageSource="minimal_pink_wallpaper.jpg">
 
     <ScrollView>
-        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
-            <Image Source="placeholderLogo.png" WidthRequest="190"/>
+        <StackLayout Padding="45" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Image Source="ResoluteLogoPNGnotext.png" WidthRequest="170"/>
 
             <Entry Placeholder="Email" TextColor="White" PlaceholderColor="LightGray"></Entry>
             <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Resolute_App.MessagingUI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,11 @@ namespace Resolute_App
         public Messaging()
         {
             InitializeComponent();
+        }
+
+        private void ChatUser1_Tapped(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Chatbox());
         }
     }
 }

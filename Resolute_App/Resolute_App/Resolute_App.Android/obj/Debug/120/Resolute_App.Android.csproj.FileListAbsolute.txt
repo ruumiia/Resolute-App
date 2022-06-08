@@ -1279,3 +1279,5 @@ C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\smile.png
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\mic.png
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\messaging_icon.png
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\messaging_icon.png
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\resolutelogopngnotext.png

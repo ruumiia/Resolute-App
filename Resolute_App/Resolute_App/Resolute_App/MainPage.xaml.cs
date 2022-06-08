@@ -20,21 +20,5 @@ namespace Resolute_App
             pages.MoveNext(); // third page
             CurrentPage = pages.Current;
         }
-
-        //navigation page buttons
-        private async void LoginPage_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Login());
-        }
-
-        private async void MessagingUI_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Messaging());
-        }
-
-        private async void ChatboxUI_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new Chatbox());
-        }
     }
 }

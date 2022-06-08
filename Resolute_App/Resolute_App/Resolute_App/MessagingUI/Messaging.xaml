@@ -5,10 +5,12 @@
              Title="Messages">
     <ContentPage.Content>
         <StackLayout>
+            <?search entry at the top?>
             <StackLayout BackgroundColor="White" Padding="5">
                 <Entry Placeholder="Search messages" FontSize="Small"  HorizontalTextAlignment="Center" PlaceholderColor="gray" TextColor="black"/>
             </StackLayout>
 
+            <?Layout for each messagers on the list?>
             <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" BackgroundColor="White" Padding="15">
                 <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
                     <Image Source="default_profile_pic.jpg" WidthRequest="80"/>
@@ -17,8 +19,13 @@
                     <Label Text="User" FontSize="Title" TextColor="Black"/>
                     <Label Text="Hi! Welcome to the app." FontSize="Subtitle" TextColor="black"/>
                 </StackLayout>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="ChatUser1_Tapped"/>
+                    <?to be made dynamic?>
+                </StackLayout.GestureRecognizers>
             </StackLayout>
 
+            <?Start a new message button at the bottom?>
             <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand" HorizontalOptions="Center">
                 <Button Text="Start a new message"
                         FontAttributes="Bold"
