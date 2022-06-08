@@ -12,11 +12,7 @@
 
     <local:ProfilePage Title="Profile" IconImageSource="user_profile"/>
 
-    <ContentPage Title="Home" IconImageSource="home" Padding="20">
-        <StackLayout>
-            <Label Text="Home Page" HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage>
+    <local:HomePage Title="Home" IconImageSource="home" />
 
     <local:Messaging Title="Messages" IconImageSource="messaging_icon" />
 

@@ -16700,7 +16700,10 @@ namespace Resolute_App.Droid
 			public const int tooltip_frame_light = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int user_profile = 2131165340;
+			public const int under_development_placeholder = 2131165340;
+			
+			// aapt resource value: 0x7F07009D
+			public const int user_profile = 2131165341;
 			
 			static Drawable()
 			{
