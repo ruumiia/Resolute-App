@@ -10,7 +10,7 @@ namespace Resolute_App
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Login());
+            MainPage = new NavigationPage(new GameOverScreen());
         }
 
         protected override void OnStart()
