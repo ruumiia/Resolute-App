@@ -20,6 +20,4 @@ Chatbox UI<br /><br />
 ![](images/chatbox.png)<br />
 Chatbox UI<br /><br />
 
-<div style="height: 60%">
-  ![](.images/friends.png)
-</div>
+<img src="images/friends" height="60%">
