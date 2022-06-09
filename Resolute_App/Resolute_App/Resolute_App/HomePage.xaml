@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Home"
+             x:Class="Resolute_App.HomePage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20,20,20,20">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+                    <StackLayout Orientation="Vertical" Margin="0,0,40,0" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 1" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 2" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+                    <StackLayout Orientation="Vertical" Margin="0,0,40,0" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 1" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 2" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+                    <StackLayout Orientation="Vertical" Margin="0,0,40,0" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 1" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" BackgroundColor="LightGray">
+                        <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="10,10,10,10"></ImageButton>
+                        <Label Text="Option 2" Padding="10,0,0,10"></Label>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

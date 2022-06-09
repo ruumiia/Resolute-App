@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resolute_App.Login"
+             Title="Login"
+             BackgroundImageSource="minimal_pink_wallpaper.jpg">
+    
+    <ContentPage.Content>
+        <StackLayout Padding="45" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Image Source="ResoluteLogoPNGnotext.png" WidthRequest="170"/>
+
+            <StackLayout Padding="0,15,0,15">
+                <Entry Placeholder="Username" TextColor="White" PlaceholderColor="LightGray"></Entry>
+                <Entry Placeholder="Password" TextColor="White" PlaceholderColor="LightGray" IsPassword="True"></Entry>
+            </StackLayout>
+
+            <?Login Button?>
+            <Button
+                x:Name="LoginBtn"
+                VerticalOptions="Center"
+                Text="Login"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                BackgroundColor="white"
+                BorderColor="white"
+                TextColor="Black"
+                Margin="0,0,0,15"
+                Clicked="LoginBtn_Clicked"
+                ></Button>
+
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="DarkSlateGray" />
+            
+            <?Socials Login?>
+            <Button
+                VerticalOptions="Center"
+                ContentLayout="Left,5"
+                ImageSource="google"
+                Text="Login with Google"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                TextColor="Black"
+                BackgroundColor="#DB4437"
+                BorderColor="#DB4437"
+                Margin="0,10,0,10"
+                ></Button>
+
+            <Button
+                VerticalOptions="Center"
+                ContentLayout="Left,5"
+                ImageSource="facebook"
+                Text="Login with Facebook"
+                TextColor="white"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                BackgroundColor="#4267B2"
+                BorderColor="#4267B2"
+                ></Button>
+
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Don't have an account? " TextColor="LightGray"/>
+                        <Span Text="Register" TextColor="LightGray" FontAttributes="Bold" TextDecorations="Underline"/>
+                    </FormattedString>
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Register"/>
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

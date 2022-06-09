@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6DbcIclvz+/YVjnqvHG71BSoY/LPZpd3Y9XaFbzVn5zLMwO3rChYHaXx9z8UgLxuHml8MA6wfV6K9F66VxIkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zetha\\Documents\\GitHub\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App\\Resolute_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zetha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\zetha\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
