@@ -8,11 +8,16 @@ Login Page<br /><br />
 ![](images/register.png)<br />
 Register Page<br /><br />
 
-![](images/tabbed.png)<br />
-Tabbed Page for Navigation<br /><br />
+![](images/home.png)<br />
+Home Page for Navigation<br /><br />
 
-![](images/messaging.png)<br />
+![](images/messages.png)<br />
 Messaging UI<br /><br />
 
 ![](images/chatbox.png)<br />
 Chatbox UI<br /><br />
+
+![](images/chatbox.png)<br />
+Chatbox UI<br /><br />
+
+<img src="friends" width="150">
