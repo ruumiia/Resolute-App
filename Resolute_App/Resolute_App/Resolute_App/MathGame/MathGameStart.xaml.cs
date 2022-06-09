@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Resolute_App.MathGame
+namespace Resolute_App
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MathGameStart : ContentPage

@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Resolute_App.Login"
              Title="Login"
-             BackgroundImageSource="minimal_pink_wallpaper.jpg">
+             BackgroundImageSource="minimal_pink_wallpaper.jpg"
+             NavigationPage.HasNavigationBar="false">
     
     <ContentPage.Content>
         <StackLayout Padding="45" VerticalOptions="Center" HorizontalOptions="FillAndExpand">

@@ -16,7 +16,6 @@ namespace Resolute_App
         private int answerPosition;
         //private int upperLimit;
         private string questionPhrase;
-        private string wordPhrase;
 
         public Question(int upperLimit)
         {

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Resolute_App.MathGame.MathGameStart.xaml", "MathGame/MathGameStart.xaml", typeof(global::Resolute_App.MathGame.MathGameStart))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Resolute_App.MathGame.MathGameStart.xaml", "MathGame/MathGameStart.xaml", typeof(global::Resolute_App.MathGameStart))]
 
-namespace Resolute_App.MathGame {
+namespace Resolute_App {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MathGame\\MathGameStart.xaml")]
