@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vxNighBywdyMhL132tYDsfRiPcl0D7KsoGw4piNk+9r0WqqNKPjVI7B3mYWwoMbt9N8D/RMO8vTV//aYOeOHcg==",
+  "dgSpecHash": "VlWDlBz2zP9wUH7no6Bh3U4fA1si6yrlU+ANPvxWTI0tGbh0ZmebzCv1zdQZpCxY3SrmLnqLx75Xxq7CvqTc8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\shiii\\source\\repos\\Resolute-App\\Resolute_App\\Resolute_App\\Resolute_App.iOS\\Resolute_App.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shiii\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.13\\com.airbnb.ios.lottie.2.5.13.nupkg.sha512",
+    "C:\\Users\\shiii\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\4.1.0\\com.airbnb.xamarin.forms.lottie.4.1.0.nupkg.sha512",
     "C:\\Users\\shiii\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\shiii\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\shiii\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\shiii\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\shiii\\.nuget\\packages\\xamarin.plugin.sharedtransitions\\2.4.0\\xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

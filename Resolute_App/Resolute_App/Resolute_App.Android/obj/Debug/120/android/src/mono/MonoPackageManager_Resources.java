@@ -4,7 +4,11 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Resolute_App.Android.dll" comes first in this list. */
 		"Resolute_App.Android.dll",
 		"FormsViewGroup.dll",
+		"Lottie.Android.dll",
+		"Lottie.Forms.dll",
+		"Plugin.SharedTransitions.dll",
 		"Resolute_App.dll",
+		"Square.OkIO.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
