@@ -11,30 +11,17 @@
                     <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
                         <StackLayout Orientation="Vertical">
                             <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
-                            <Label Text="Option 1" Padding="10,5,0,35"/>
+                            <Label Text="Self-Development" Padding="10,5,0,35"/>
                         </StackLayout>
                     </yummy:PancakeView>
 
                     <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
                         <StackLayout Orientation="Vertical">
                             <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
-                            <Label Text="Option 2" Padding="10,5,0,35"/>
-                        </StackLayout>
-                    </yummy:PancakeView>
-                </StackLayout>
-
-                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
-                    <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
-                        <StackLayout Orientation="Vertical">
-                            <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
-                            <Label Text="Option 3" Padding="10,5,0,35"/>
-                        </StackLayout>
-                    </yummy:PancakeView>
-
-                    <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
-                        <StackLayout Orientation="Vertical">
-                            <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
-                            <Label Text="Option 4" Padding="10,5,0,35"/>
+                            <Label Text="Friends" Padding="10,5,0,35"/>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Friends_Tapped"/>
+                            </StackLayout.GestureRecognizers>
                         </StackLayout>
                     </yummy:PancakeView>
                 </StackLayout>
@@ -43,7 +30,23 @@
                     <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
                         <StackLayout Orientation="Vertical">
                             <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
-                            <Label Text="Option 5" Padding="10,5,0,35"/>
+                            <Label Text="Social Profile" Padding="10,5,0,35"/>
+                        </StackLayout>
+                    </yummy:PancakeView>
+
+                    <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
+                        <StackLayout Orientation="Vertical">
+                            <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
+                            <Label Text="Daily Tasks" Padding="10,5,0,35"/>
+                        </StackLayout>
+                    </yummy:PancakeView>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,0,0,20">
+                    <yummy:PancakeView BackgroundColor="White" CornerRadius="0,0,8,8" Margin="0,0,30,0">
+                        <StackLayout Orientation="Vertical">
+                            <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
+                            <Label Text="Help Center" Padding="10,5,0,35"/>
                         </StackLayout>
                     </yummy:PancakeView>
 

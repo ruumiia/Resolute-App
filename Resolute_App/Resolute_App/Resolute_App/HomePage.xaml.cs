@@ -16,5 +16,10 @@ namespace Resolute_App
         {
             InitializeComponent();
         }
+
+        private void Friends_Tapped(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Friends());
+        }
     }
 }

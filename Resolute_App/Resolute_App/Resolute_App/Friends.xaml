@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resolute_App.Friends"
+             Title="Friends">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="25" BackgroundColor="White">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="65" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Juan De La Cruz (You)" FontAttributes="Bold" FontSize="Large"/>
+                        <Label Text="User ID: 34324-grt255t-24e-ww" FontSize="Small"/>
+                    </StackLayout>
+                </StackLayout>
+
+                <!-- This part is to be recreated in the .cs file for the list to be looped to the amount of friends the user has -->
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Alexus Zavier" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Nixon Refilwe" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Nash Sommer" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Hudson Jessye" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Derek Adelaide" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,0,0" Margin="0,10,0,10">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="default_profile_pic" WidthRequest="50" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Clifford Villena" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="San Francisco, CA" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
