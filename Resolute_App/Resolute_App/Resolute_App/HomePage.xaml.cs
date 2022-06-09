@@ -17,6 +17,9 @@ namespace Resolute_App
             InitializeComponent();
         }
 
-
+        void OnImageButtonClicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MathGameStart());
+        }
     }
 }
