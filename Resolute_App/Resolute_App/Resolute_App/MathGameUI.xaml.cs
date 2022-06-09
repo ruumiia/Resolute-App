@@ -57,7 +57,7 @@ namespace Resolute_App
 
         private async void OnZeroHP()
         {
-            
+            await Navigation.PushModalAsync(new GameOverScreen(), true);
         }
 
         private void updateView()

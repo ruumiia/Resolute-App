@@ -16,6 +16,8 @@ namespace Resolute_App
         {
             InitializeComponent();
 
+            Padding = new Thickness(20, 20, 20, 20);
+
 
         }
     }

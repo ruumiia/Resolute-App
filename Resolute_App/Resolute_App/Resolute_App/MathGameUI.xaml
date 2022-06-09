@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Resolute_App.MathGameUI">
+             x:Class="Resolute_App.MathGameUI"
+             xmlns:sharedTransitions="clr-namespace:Plugin.SharedTransitions;assembly=Plugin.SharedTransitions"
+             sharedTransitions:SharedTransitionNavigationPage.TransitionSelectedGroup="{Binding SelectedPlaceId}"
+             sharedTransitions:SharedTransitionNavigationPage.TransitionDuration="300"
+             sharedTransitions:SharedTransitionNavigationPage.BackgroundAnimation="Flip">
    
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
 
         <Label FontSize="24" x:Name="lifeLabel"></Label>
         <Label FontSize="24" x:Name="correctLabel"></Label>
         <Label  FontSize="24" x:Name="wrongLabel"></Label>
-
 
         <Label Margin="0,50,0,0" FontSize="40" x:Name="questionText" Text="2+2=" HorizontalOptions="CenterAndExpand"></Label>
         <Grid Margin="0,70,0,0">
