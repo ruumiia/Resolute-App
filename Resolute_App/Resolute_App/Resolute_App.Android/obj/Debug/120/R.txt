@@ -1942,8 +1942,9 @@ int drawable smile 0x7f07009a
 int drawable test_custom_background 0x7f07009b
 int drawable tooltip_frame_dark 0x7f07009c
 int drawable tooltip_frame_light 0x7f07009d
-int drawable under_development_placeholder 0x7f07009e
-int drawable user_profile 0x7f07009f
+int drawable trophy 0x7f07009e
+int drawable under_development_placeholder 0x7f07009f
+int drawable user_profile 0x7f0700a0
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002

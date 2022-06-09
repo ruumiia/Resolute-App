@@ -38,6 +38,9 @@
                         <StackLayout Orientation="Vertical">
                             <ImageButton Source="under_development_placeholder" WidthRequest="150" Padding="0" Margin="0"/>
                             <Label Text="Daily Tasks" Padding="10,5,0,35"/>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="Tasks_Tapped"/>
+                            </StackLayout.GestureRecognizers>
                         </StackLayout>
                     </yummy:PancakeView>
                 </StackLayout>

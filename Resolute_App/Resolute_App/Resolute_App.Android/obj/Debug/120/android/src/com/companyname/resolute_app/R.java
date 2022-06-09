@@ -9929,8 +9929,9 @@ public final class R {
     public static final int test_custom_background=0x7f07009b;
     public static final int tooltip_frame_dark=0x7f07009c;
     public static final int tooltip_frame_light=0x7f07009d;
-    public static final int under_development_placeholder=0x7f07009e;
-    public static final int user_profile=0x7f07009f;
+    public static final int trophy=0x7f07009e;
+    public static final int under_development_placeholder=0x7f07009f;
+    public static final int user_profile=0x7f0700a0;
   }
   public static final class id {
     public static final int ALT=0x7f080000;

@@ -1290,3 +1290,4 @@ C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\android\src\crc64f8908e42fa42e603\RoundedCornerOutlineProvider.java
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\birthday_cake.png
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\male_gender.png
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App.Android\obj\Debug\120\res\drawable\trophy.png

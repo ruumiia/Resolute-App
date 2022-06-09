@@ -21,5 +21,10 @@ namespace Resolute_App
         {
             Navigation.PushAsync(new Friends());
         }
+
+        private void Tasks_Tapped(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Tasks());
+        }
     }
 }

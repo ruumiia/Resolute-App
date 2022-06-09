@@ -82,7 +82,6 @@
                     </StackLayout>
                 </StackLayout>
                 <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
-
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

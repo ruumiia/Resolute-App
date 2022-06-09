@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resolute_App.Tasks"
+             Title="Daily Tasks">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout Orientation="Horizontal" Padding="25,0,25,0" Margin="0,15,0,15">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="trophy.png" WidthRequest="60" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Complete 5 Trivias" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="Completed - 100 points" FontSize="Caption"/>
+                    </StackLayout>
+                    
+                    <StackLayout HorizontalOptions="EndAndExpand" Margin="0,10,0,0">
+                        <Button Text="Claimed"
+                                FontAttributes="Bold"
+                                FontSize="Subtitle"
+                                BackgroundColor="White"
+                                BorderWidth="1"
+                                BorderColor="Gray"
+                                TextColor="Gray"
+                                WidthRequest="100"
+                                HeightRequest="40"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,25,0" Margin="0,15,0,15">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="trophy.png" WidthRequest="60" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Reach 10,000 Steps" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="Claim your reward! - 300 points" FontSize="Caption"/>
+                    </StackLayout>
+
+                    <StackLayout HorizontalOptions="EndAndExpand" Margin="0,10,0,0">
+                        <Button Text="Claim!"
+                                FontAttributes="Bold"
+                                FontSize="Subtitle"
+                                BackgroundColor="White"
+                                BorderWidth="1"
+                                BorderColor="DeepSkyBlue"
+                                TextColor="DeepSkyBlue"
+                                WidthRequest="85"
+                                HeightRequest="40"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,25,0" Margin="0,15,0,15">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="trophy.png" WidthRequest="60" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Add 10 Friends" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="6/10 Pending - 500 points" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,25,0" Margin="0,15,0,15">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="trophy.png" WidthRequest="60" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Complete a Cognitive Task" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="0/1 Pending - 50 points" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Horizontal" Padding="25,0,25,0" Margin="0,15,0,15">
+                    <Frame HasShadow="False" Padding="0" Margin="0" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="gray" IsClippedToBounds="True" CornerRadius="40">
+                        <Image Source="trophy.png" WidthRequest="60" />
+                    </Frame>
+                    <StackLayout Orientation="Vertical" Margin="10,0,0,0">
+                        <Label Text="Complete All Daily Missions" FontAttributes="Bold" FontSize="Medium"/>
+                        <Label Text="1/5 Pending - 500 points" FontSize="Caption"/>
+                    </StackLayout>
+                </StackLayout>
+                <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" WidthRequest="1" Color="LightGray" />
+
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand">
+                    <Button Text="Rewards Shop"
+                                FontAttributes="Bold"
+                                FontSize="Subtitle"
+                                BackgroundColor="White"
+                                BorderWidth="1"
+                                BorderColor="DeepSkyBlue"
+                                TextColor="DeepSkyBlue"
+                                HeightRequest="40"
+                                WidthRequest="200"/>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                        <Label Text="Current Points: " FontAttributes="Bold"/>
+                        <Label Text="1500"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
