@@ -2,7 +2,7 @@
 # More details to be included soon
 
 # UI Branch Progress
-![](images/login.png)<br />
+<img src="images/login.png" height="60%">
 Login Page<br /><br />
 
 ![](images/register.png)<br />
@@ -20,4 +20,4 @@ Chatbox UI<br /><br />
 ![](images/chatbox.png)<br />
 Chatbox UI<br /><br />
 
-<img src="images/friends" height="60%">
+<img src="images/friends.png" height="60%">
