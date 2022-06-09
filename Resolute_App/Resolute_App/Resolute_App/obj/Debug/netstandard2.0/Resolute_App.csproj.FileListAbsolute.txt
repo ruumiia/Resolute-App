@@ -41,3 +41,4 @@ C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
 C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
 C:\Users\zetha\Documents\GitHub\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\patrd\Source\Repos\Resolute-App\Resolute_App\Resolute_App\Resolute_App\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

@@ -20,6 +20,7 @@
                 </Frame>
             </StackLayout>
 
+            <?Chat text input?>
             <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand" BackgroundColor="white" Padding="10,10,10,10">
                 <Image Source="mic.png" WidthRequest="25"/>
                 <Grid WidthRequest="280" HeightRequest="45">
