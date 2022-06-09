@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Resolute_App.GameOverScreen"
+             xmlns:forms="clr-namespace:Lottie.Forms;assembly=Lottie.Forms" 
+             xmlns:lottie="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             BackgroundColor="#e3342f">
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Margin="0,30,0,-300">
+                <Frame BorderColor="White" BackgroundColor="Transparent" CornerRadius="100" HasShadow="True">
+                </Frame>
+                <forms:AnimationView
+                x:Name="GameOverAnimation"
+                Grid.Row="0"
+                Grid.Column="0"
+                Animation="loss.json"
+                AutoPlay="True" 
+                RepeatMode="Infinite"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="CenterAndExpand"/>
+
+                    <forms:AnimationView
+                x:Name="GameOverText"
+                Grid.Row="0"
+                Grid.Column="0"
+                Animation="gameover.json"
+                AutoPlay="True"
+                VerticalOptions="StartAndExpand"
+                HorizontalOptions="CenterAndExpand"/>
+                    
+                    <Label Text="Your score is this!" 
+                       x:Name="GameOverDescription"
+                       Grid.Row="1"
+                       Grid.Column="0"
+                       HorizontalTextAlignment="Center"/>
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
